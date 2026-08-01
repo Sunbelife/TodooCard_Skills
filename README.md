@@ -2,29 +2,28 @@
 
 TodooCard 电子拍立得的开放 Skill。
 
-TodooCard Skills 可用于在 macOS 上准备、校验、探测并发送图片到 TodooCard / T3 六色电子纸卡片。
+TodooCard Skills 可用于在 macOS 上准备、校验、探测并发送图片到 TodooCard 电子纸卡片。
 
 ![TodooCard Skill 头图](assets/todoocard-hero.jpg)
 
 ## 适合做什么
 
-- 把 JPG、PNG、HEIC 图片转换为 TodooCard/T3 可用的六色电子纸 payload。
+- 把 JPG、PNG、HEIC 图片转换为 TodooCard 可用的六色电子纸 payload。
 - 在发送前校验 payload 尺寸、QuickLZ 包装和文件结构。
 - 扫描附近兼容的 BLE 电子纸卡片。
 - 按指定设备 UUID 探测设备。
-- 在用户确认后，将图片发送到指定 TodooCard/T3 设备。
+- 在用户确认后，将图片发送到指定 TodooCard 设备。
 - 处理屏幕倒装、图片横竖方向异常、颜色渲染检查等问题。
 
 ## 安装方式
 
-把仓库里的 `todoocard-skills` 文件夹复制到 Codex skills 目录：
+在 Mac 上打开支持本地 Skills 的 AI Agent 客户端，告诉它：
 
-```bash
-mkdir -p ~/.codex/skills
-cp -R todoocard-skills ~/.codex/skills/
+```text
+请安装这个 TodooCard Skills：https://github.com/Sunbelife/TodooCard_Skills
 ```
 
-然后重启 Codex，或重新打开一个任务，让 Codex 重新加载本地 skills。
+安装完成后，重新打开一个任务或重启客户端，让它重新加载本地 Skills。
 
 ## 使用示例
 
