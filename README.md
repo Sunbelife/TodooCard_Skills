@@ -106,4 +106,4 @@ Use $todoocard-skills to prepare this image for my TodooCard and show me the pay
 
 ## 购买链接
 
-购买 TodooCard：[card.todoo.tech](https://card.todoo.tech)
+购买 TodooCard：[wxmpurl.cn/l9UUcyEDIrs](https://wxmpurl.cn/l9UUcyEDIrs)
