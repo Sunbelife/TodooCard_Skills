@@ -1,0 +1,4 @@
+interface:
+  display_name: "TodooCard Skills"
+  short_description: "Prepare and safely send photos to TodooCard/T3 e-paper cards."
+  default_prompt: "Use $todoocard-skills to prepare this image for my TodooCard and show me the payload before sending."
