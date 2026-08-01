@@ -2,7 +2,7 @@
 
 TodooCard Skills 是一个用于在 macOS 上准备、校验、探测并发送图片到 TodooCard / T3 六色电子纸卡片的 Codex Skill。
 
-![TodooCard 产品图](https://store-oss-prod.sunbelife.com/2026/05/17/099a6109-2129-4b8b-9aa2-1fd7ff45263f.jpeg?x-oss-process=image/resize,w_1600/format,webp)
+![TodooCard 黑色头图](assets/todoocard-hero-black.jpg)
 
 ## 适合做什么
 
@@ -92,11 +92,17 @@ Use $todoocard-skills to prepare this image for my TodooCard and show me the pay
 
 更多产品介绍可以看：[p.todoo.tech](https://p.todoo.tech)
 
-![TodooCard 户外场景](https://store-oss-prod.sunbelife.com/2026/05/17/f609000a-583c-45f7-b70d-0a1c1231108b.jpg?x-oss-process=image/resize,w_900/format,webp)
+![TodooCard 户外场景](assets/todoocard-outdoor.jpg)
 
-![TodooCard 夜间场景](https://store-oss-prod.sunbelife.com/2026/05/17/a90bd4c3-09d9-4aa9-9b4d-aef2e81943a4.jpeg?x-oss-process=image/resize,w_900/format,webp)
+![TodooCard 包装近景](assets/todoocard-box-closeup.jpg)
 
-![TodooCard App 工作流](https://store-oss-prod.sunbelife.com/2026/05/17/59e84c8f-0abd-4e14-bd87-17eac93f1b03.jpeg?x-oss-process=image/resize,w_900/format,webp)
+![TodooCard 键盘场景](assets/todoocard-keyboard.jpg)
+
+![TodooCard 包装场景](assets/todoocard-package.jpg)
+
+![TodooCard 手机背贴场景](assets/todoocard-on-phone.jpg)
+
+![TodooCard 背面](assets/todoocard-back.jpg)
 
 ## 购买链接
 
