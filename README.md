@@ -1,6 +1,8 @@
 # TodooCard Skills
 
-TodooCard Skills 是一个用于在 macOS 上准备、校验、探测并发送图片到 TodooCard / T3 六色电子纸卡片的 Codex Skill。
+TodooCard 电子拍立得的开放 Skill。
+
+TodooCard Skills 可用于在 macOS 上准备、校验、探测并发送图片到 TodooCard / T3 六色电子纸卡片。
 
 ![TodooCard 黑色头图](assets/todoocard-hero-black.jpg)
 
